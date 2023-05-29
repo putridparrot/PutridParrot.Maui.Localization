@@ -1,6 +1,6 @@
 # PutridParrot.Maui.Localization
 
-[![Build PutridParrot.Maui.Localization](https://github.com/putridparrot/PutridParrot.Maui.Localization/actions/workflows/dotnet-core.yml/badge.svg)](https://github.com/putridparrot/PutridParrot.Maui.Localization/actions/workflows/dotnet-core.yml)
+[![Build PutridParrot.Maui.Localization](https://github.com/putridparrot/PutridParrot.Maui.Localization/actions/workflows/build.yml/badge.svg)](https://github.com/putridparrot/PutridParrot.Maui.Localization/actions/workflows/build.yml)
 [![NuGet version (PutridParrot.Maui.Localization)](https://img.shields.io/nuget/v/PutridParrot.Maui.Localization.svg?style=flat-square)](https://www.nuget.org/packages/PutridParrot.Maui.Localization/)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/putridparrot/PutridParrot.Maui.Localization/blob/master/LICENSE.md)
 [![GitHub Releases](https://img.shields.io/github/release/putridparrot/PutridParrot.Maui.Localization.svg)](https://github.com/putridparrot/PutridParrot.Maui.Localization/releases)
