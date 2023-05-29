@@ -11,6 +11,10 @@ The aim of for this project is to supply helper functionality etc. for Maui to a
 
 Package available via [nuget](https://www.nuget.org/packages/PutridParrot.Maui.Localization/)
 
+### Credits
+
+This package is heavily taken from the Stack Overflow discussion https://stackoverflow.com/questions/71315229/how-to-implement-net-maui-localization 
+
 ### Getting Started
 
 * Install the nuget package PutridParrot.Maui.Localization
